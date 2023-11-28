@@ -180,4 +180,3 @@ In the next part, we'll dive a bit deeper into how to use these concepts to make
 
 ---
 
-Feel free to adjust the language and details based on your preferences and style. The goal is to make these basic Hibernate concepts feel approachable for beginners.
